@@ -1,14 +1,21 @@
-# @drone on 1/9/2020
+# Jobs channel
 
-Hi all, Kudu is looking for someone to join my small research team in Boulder, CO. We’re working on automated vulnerability discovery and would like to both further our static analysis framework and use its results to perform program fuzzing. The goal for fuzzing, for at least some kinds of targets, is to automate harness generation and program state initialization to test single functions or sets of related functions. On the static analysis side, we are focusing on path-sensitive analysis and working on a type checker for program binaries and lifting program disassembly to a high-level, functional language representation.We’re a polyglot team and try to use the best tools for the job; for our problem domain that’s often Haskell. We currently have Haskell, Clojure, and Python in the mix and we’ll likely add one of C, C++, or Rust in the near future as part of the fuzzing work. All current static analysis work is being done with Haskell. The dynamic analysis work may require some use of a lower-level language, but the orchestration, input generation, and other work should be possible in Haskell as well. In other words, both positions involve building software that will be/can be primarily implemented with Haskell. Our new team member will help make that decision. And fear not about the Python, it’s there only for interop with external components and isolated from the rest of our project. =) A few constraints:
+[Note: these rules and their motivations have been discussed ad nauseam in the channel. Please don’t start a debate about it again in the channel. Doing so may result in a ban from the channel. We are happy to debate this and any other issues privately.]
 
-- U.S. citizenship is required
-- Working from home most of the time is an option (if you prefer it), but you will still need to be located near one of our office locations (Boulder, CO; Chantilly, VA; Colombus, OH; San Antonio, TX)
-- This is a research project and we are expected to develop novel methods that contribute to the state-of-the-art in automated vulnerability discovery
+1. Job postings must clearly be strictly related to Functional Programming
+    1. Does the job involve working mostly with any of Haskell/GHCJS/PureScript/Elm/Clojure/ClojureScript/OCaml/ReasonML/F#? If "yes", you can post the job.
+    2. Does the job involve working mostly with Scala AND the "cats" or “scalaz” libraries? If "yes", you can post the job.
+    3. Otherwise, the job doesn't belong in this channel, so please don't post it.
+2. Job postings must include a description, including at least the following information:
+    1. A general description of the position.
+    2. Required skills and experience.
+    3. Working conditions: Location, Remote OK?, part-time/full-time
+    4. A technical description of the position, demonstrating its relevance to the channel. Include details such as: programming languages, tools and frameworks used
+    5 Any additional information you feel may be helpful and/or relevant.
+3. Do **NOT** post misleading information
+    - For example: including the keyword “Haskell” in the posting, when the job itself does not involve writing Haskell code.
+4. The position must be an actual job opening being actively hired for. “Interview” processes or labor sourcing platforms that require spec work / free labor for an opportunity to be considered for the position are unacceptable. Small, useless work samples given after initial screening are fine.
 
-We will only be hiring one person, but they can choose to either focus on dynamic analysis or (static) program analysis. The job postings list Washington, DC as the location, but as stated earlier you can work from any of Kudu’s office locations. The current team members are in Boulder, CO.The job postings have more information and are available here:
+**Note: you can also submit your job posting as a Github issue here https://github.com/Functional-Programming-Slack/jobs/issues with the appropriate labels. 
+**
 
-- Dynamic Analysis Research Engineer (https://www.ziprecruiter.com/jobs/kudu-dynamics-llc-6f015747/dynamic-analysis-research-engineer-777f072a)
-- Program Analysis Research Engineer (https://www.ziprecruiter.com/jobs/kudu-dynamics-llc-6f015747/program-analysis-research-engineer-0bf54e31)
-
-Please feel free to DM me, send an email (<my-nickname>@kududyn.com), or use the job posting form to get in touch.
