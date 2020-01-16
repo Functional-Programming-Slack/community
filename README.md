@@ -11,11 +11,9 @@
     2. Required skills and experience.
     3. Working conditions: Location, Remote OK?, part-time/full-time
     4. A technical description of the position, demonstrating its relevance to the channel. Include details such as: programming languages, tools and frameworks used
-    5 Any additional information you feel may be helpful and/or relevant.
+    5. Any additional information you feel may be helpful and/or relevant.
 3. Do **NOT** post misleading information
     - For example: including the keyword “Haskell” in the posting, when the job itself does not involve writing Haskell code.
-4. The position must be an actual job opening being actively hired for. “Interview” processes or labor sourcing platforms that require spec work / free labor for an opportunity to be considered for the position are unacceptable. Small, useless work samples given after initial screening are fine.
+4. The position must be an actual job opening being actively hired for. "Interview" processes or labor sourcing platforms that require spec work / free labor for an opportunity to be considered for the position are unacceptable. Small, useless work samples given after initial screening are fine.
 
-**Note: you can also submit your job posting as a Github issue here https://github.com/Functional-Programming-Slack/jobs/issues with the appropriate labels. 
-**
-
+Note: you can also submit your job posting as a Github issue here https://github.com/Functional-Programming-Slack/jobs/issues with the appropriate labels. 
