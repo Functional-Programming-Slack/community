@@ -24,7 +24,7 @@ Some _examples_ (but NOT an exhaustive list of bad behavior):
 
 All but the last of these apply to communications via Direct Messages as well, not just channels. 
 
-None of the admins want to be dealing with enforcement of this CoC or policing activity in the channels. It's annoying and the majority of the members are here to engage in productive conversation. Isolated incidences rarely end up being the issue. Banning typically occurs when when we hear several reports about a member engaging in a pattern of behavior which detracts from the welcoming environment that has been in place since inception. 
+None of the admins want to be dealing with enforcement of this CoC or policing activity in the channels. It's annoying and the majority of the members are here to engage in productive conversation. Isolated incidences rarely end up being the issue. Banning typically occurs when we hear several reports about a member engaging in a pattern of behavior which detracts from the welcoming environment that has been in place since inception. 
 
 If you have questions, please contact any of the admins: @levinotik @dk @dridus @tpflug @rickasaurus @reedcopsey @fixplz
 
