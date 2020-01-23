@@ -1,12 +1,12 @@
 # Code of Conduct
 
-The purpose of the Functional Programing Slack team is to discuss - you guessed it - functional programming. The goal of this Code of Conduct is to ensure that this purpose continues to be served and that members understand, in broad terms, behavior that is unnacceptable in any of the channels on the team. 
+The purpose of the Functional Programing Slack team is to discuss - you guessed it - functional programming. The goal of this Code of Conduct is to ensure that this purpose continues to be served and that members understand, in broad terms, behavior that is unacceptable in any of the channels on the team. 
 
-It is impossible to legislate perfection so this CoC is not designed to outline every bannable offense or lay out, in specifity, an exhaustive list of what is and isn't allowed. The goal is much more modest: to make sure that members understand the spirit they should uphold and to avoid any surprises in the unfortunate circumstance that someone gets removed from the channel for violating that spirit. 
+It is impossible to legislate perfection so this CoC is not designed to outline every bannable offense or lay out, in specificity, an exhaustive list of what is and isn't allowed. The goal is much more modest: to make sure that members understand the spirit they should uphold and to avoid any surprises in the unfortunate circumstance that someone gets removed from the channel for violating that spirit. 
 
-To date, the vast majority of participants have fostered an incredible atmosphere of collaboration, with members offering advice, feedback, etc and we expect that will continue. There have been rare occurences of flagrant or derogatory language being directed at other members. There have been threats of violence. This behavior has no place on the team. 
+To date, the vast majority of participants have fostered an incredible atmosphere of collaboration, with members offering advice, feedback, etc and we expect that will continue. There have been rare occurrences of flagrant or derogatory language being directed at other members. There have been threats of violence. This behavior has no place on the team. 
 
-Clear-cut and eggregious violations may result in immediate removal from the team without warning. If there's an isolated incident followed by a quick resolution or apology to the point where it's clear to any sane, objective third-party that the offending members' continued presence on the team presents no substantial impediment to continued productive discussion focused on FP, we hope a warning will suffice and we can all move on. 
+Clear-cut and egregious violations may result in immediate removal from the team without warning. If there's an isolated incident followed by a quick resolution or apology to the point where it's clear to any sane, objective third-party that the offending members' continued presence on the team presents no substantial impediment to continued productive discussion focused on FP, we hope a warning will suffice and we can all move on. 
 
 What _precisely_ qualifies as "resolution" or "apology"? We do not attempt to precisely define those terms because this CoC is not intended to be a sprawling regulatory framework which would require lawyers to interpret prior to enforcement. Instead, we've placed significant trust in the few admins and other long-standing key members to assess situations on a case-by-case basis. 
 
@@ -24,7 +24,7 @@ Some _examples_ (but NOT an exhaustive list of bad behavior):
 
 All but the last of these apply to communications via Direct Messages as well, not just channels. 
 
-None of the admins want to be dealing with enforcement of this CoC or policing activity in the channels. It's annoying and the majority of the members are here to engage in productive conversation. Isolated incidinces rarely end up being the issue. It's when we hear several reports about a member engaging in a pattern of behavior which detracts from the welcoming environment that has been in place since inception. 
+None of the admins want to be dealing with enforcement of this CoC or policing activity in the channels. It's annoying and the majority of the members are here to engage in productive conversation. Isolated incidences rarely end up being the issue. Banning typically occurs when when we hear several reports about a member engaging in a pattern of behavior which detracts from the welcoming environment that has been in place since inception. 
 
 If you have questions, please contact any of the admins: @levinotik @dk @dridus @tpflug @rickasaurus @reedcopsey @fixplz
 
