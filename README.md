@@ -34,7 +34,7 @@ If you have questions, please contact any of the admins: @levinotik @dk @dridus 
 [Note: these rules and their motivations have been discussed ad nauseam in the channel. Please don’t start a debate about it again in the channel. Doing so may result in a ban from the channel. We are happy to debate this and any other issues privately.]
 
 1. Job postings must clearly be strictly related to Functional Programming
-    1. Does the job involve working mostly with any of Haskell/GHCJS/PureScript/Elm/Clojure/ClojureScript/OCaml/ReasonML/F#? If "yes", you can post the job.
+    1. Does the job involve working mostly with any of Haskell/GHCJS/PureScript/Elm/OCaml/ReasonML/F#? If "yes", you can post the job.
     2. Does the job involve working mostly with Scala AND the "cats" or “scalaz” libraries? If "yes", you can post the job.
     3. Otherwise, the job doesn't belong in this channel, so please don't post it.
 2. Job postings must include a description, including at least the following information:
