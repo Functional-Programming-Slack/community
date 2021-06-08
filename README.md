@@ -14,9 +14,10 @@ In a word, if you are removed from the team, it means you blatantly violated ver
 
 Some _examples_ (but NOT an exhaustive list of bad behavior):
 
-- racist language directed at someone
-- sexist language directed at someone 
-- homophobic language directed at someone 
+- promotion of racism or use of racist language
+- promotion of sexism or use of sexist language
+- promotion of homophobia or use of homophobic language
+- promotion of transphobia or use of transphobic language
 - any other derogation of a person on the basis of their identity of any kind 
 - "fuck you" directed at someone (not said in jest)
 - "I'm going to kill you" (not said in jest) or any other threats of violence
