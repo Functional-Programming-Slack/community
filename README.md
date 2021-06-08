@@ -16,7 +16,8 @@ Some _examples_ (but NOT an exhaustive list of bad behavior):
 
 - racist language directed at someone
 - sexist language directed at someone 
-- homophobic language directed at someone 
+- homophobic language directed at someone
+- transphobic language directed at someone
 - any other derogation of a person on the basis of their identity of any kind 
 - "fuck you" directed at someone (not said in jest)
 - "I'm going to kill you" (not said in jest) or any other threats of violence
