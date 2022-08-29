@@ -29,6 +29,9 @@ None of the admins want to be dealing with enforcement of this CoC or policing a
 
 If you have questions, please contact any of the admins: @levinotik @dk @dridus @rickasaurus @fixplz
 
+# Request an Invite
+To request an invite to the Functional Programming community on Slack, please visit [fpslack.com](https://fpslack.com)
+
 
 # Jobs channel
 
